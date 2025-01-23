@@ -37,12 +37,22 @@ The dataset used in this project is **password-protected**. To access the datase
 - Cite this research as published on [IEEE Xplore](https://ieeexplore.ieee.org/document/10543886).
 
 ## Citation
+For more details, visit the published work on [IEEE Xplore](https://ieeexplore.ieee.org/document/10543886).
+
 If you use this project, please cite:
-```Sahoo, Deepak Kumar, Deheem U. Deyar, and Deepa Gupta. "Prediction of Shot Selection of a Batsman in the death over of a T20 Cricket Match using Machine Learning." In 2024 IEEE 9th International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE, 2024.
+```plaintext
+Sahoo, Deepak Kumar, Deheem U. Deyar, and Deepa Gupta. "Prediction of Shot Selection of a Batsman in the death over of a T20 Cricket Match using Machine Learning." In 2024 IEEE 9th International Conference for Convergence in Technology (I2CT), pp. 1-7. IEEE, 2024.
+```
+
+For more details, visit the published work on [IEEE Xplore](https://ieeexplore.ieee.org/document/10543886).
+
+If you use this project, please cite:
+```plaintext
+Predicting Batsman Shot Selection in T20 Death Overs Using Machine Learning, Published on IEEE Xplore. DOI: 10543886.
 ```
 
 ## Authors
-- **Deheem Bhat** (Data Science Researcher)  
+- **Deheem Bhat** (Author, Data Science Researcher)  
 Email: **deheembhat9@gmail.com**
 
 ## License
