@@ -46,7 +46,7 @@ Sahoo, Deepak Kumar, Deheem U. Deyar, and Deepa Gupta. "Prediction of Shot Selec
 
 For more details, visit the published work on [IEEE Xplore](https://ieeexplore.ieee.org/document/10543886).
 
-If you use this project, please cite:
+If you want to see our work, please visit this URL:
 ```plaintext
 Predicting Batsman Shot Selection in T20 Death Overs Using Machine Learning, Published on IEEE Xplore. DOI: 10543886.
 ```
